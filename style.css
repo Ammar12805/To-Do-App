@@ -1,0 +1,27 @@
+*{
+    background-color: bisque;
+}
+
+
+.heading{
+    margin-left: 530px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    width: 300px;
+}
+
+.main{
+    text-align: center;
+}
+
+.list{
+    margin-left: 500px;
+    list-style-type: none;
+}
+
+.btn{
+    background-color: cornflowerblue;
+    border-radius: 30px;
+}
